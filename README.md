@@ -5,10 +5,10 @@
 Les animations servent à faire une transition entre deux états d'un élément. Si on prend l'exemple d'un bouton, il peut donc avoir deux états : l'état neutre/normal et celui qui est déclanché au survol de la souris  avec la *[pseudo-classe](https://developer.mozilla.org/fr/docs/Web/CSS/Pseudo-classes)* ``:hover``. Les animations ajoutent un peu de fluidité au changement d'état et dans ce contexte au changement de couleur du background et de la couleur du lien.
 
 **Sans transition**  
-![Animation 1](./assets/anim1.gif)
+
 
 **Avec transition**  
-![Animation 1](./assets/anim2.gif)
+
 
 
 ## Transition VS Animation
@@ -26,13 +26,13 @@ Voici quelques cas ou la propriété ``animation`` est plus indiquée.
  ## Drill 
 
  **1. Reproduis cet exemple**  
- ![Animation 1](./assets/anim2.gif)  
+  
 
  **2. Reproduis cet exemple sans modifier la valeur de la taille en largeur #DoNotTouchTheWidth**
- ![Animation 1](./assets/anim3.gif)   
+ 
 
  **3. Reproduis cet exemple sans modifier la marge #DontTouchTheMargin**
- ![Animation 1](./assets/anim4.gif)  
+ 
 
 
- Terminé ? OK, tu es prêts à passer [à l'étape suivante](menu.md)
+ Terminé ? OK, tu es prêts à passer à l'étape suivante
